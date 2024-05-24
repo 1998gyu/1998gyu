@@ -5,4 +5,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
-<p align="left">✨ 🎲 <br>📚 I'm currently learning nothing <br>🎯 Goals: live.
+<p align="left">✨ 🎲 <br>📚 I'm currently learning how to easy life <br>🎯 Goals: live.
